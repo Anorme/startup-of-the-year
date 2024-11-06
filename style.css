@@ -13,6 +13,7 @@ html {
 h1 {
   font-size: 3rem;
   color: #e2dbdb;
+  margin-top: 80px;
 }
 
 hr {
@@ -48,5 +49,6 @@ hr {
 
 .btn-xl {
   padding: 1rem 2rem;
+  margin-bottom: 110px;
 }
 
